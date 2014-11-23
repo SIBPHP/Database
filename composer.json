@@ -1,0 +1,20 @@
+{
+    "name": "sframe/database",
+    "description": "database component",
+    "keywords": ["database"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fred Yang",
+            "email": "shuky2000@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "SFrame\\Database": ""
+        }
+    },
+    "target-dir": "SFrame/Database"
+}
